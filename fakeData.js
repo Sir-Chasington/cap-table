@@ -1,7 +1,7 @@
 const fakeData = {
     '0x0246fd75c62deff6711eedb0f6827f3645ccbd62': {
         productId: '0x0246fd75c62deff6711eedb0f6827f3645ccbd62',
-        symbol: 'OSTK',
+        symbol: 'FBRX',
         users: [
             {
                 address:'0x1481da69c15d4d46957fe74699cd9f1ca37200aa',
